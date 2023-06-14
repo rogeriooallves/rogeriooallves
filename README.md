@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Rogério Alves, um Técnico em Segurança do Trabalho  que busca aprendizado e oportunidas na área de progamação.
+Eu sou o Rogério Alves, um Técnico em Segurança do Trabalho  que busca aprendizado e oportunidades na área de progamação.
 <br>
 <br>
 Atualmente  estou  aprendendo e  desenvolvendo projetos em :
